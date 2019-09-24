@@ -54,4 +54,10 @@
         <jiraProjectName>MODULEANNOUNCESUBSCRIBE</jiraProjectName>
         <jiraComponentId></jiraComponentId>
     </properties>
+    <scm>
+        <connection>scm:git:https://github.com/lutece-platform/lutece-collab-module-announce-subscribe.git</connection>
+        <developerConnection>scm:git:https://github.com/lutece-platform/lutece-collab-module-announce-subscribe.git</developerConnection>
+        <url>https://github.com/lutece-platform/lutece-collab-module-announce-subscribe.git²</url>
+        <tag>HEAD</tag>
+    </scm>
 </project>
