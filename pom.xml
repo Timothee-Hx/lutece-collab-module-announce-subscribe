@@ -10,7 +10,7 @@
     <groupId>fr.paris.lutece.plugins</groupId>
     <artifactId>module-announce-subscribe</artifactId>
     <packaging>lutece-plugin</packaging>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
 
 		<name>Lutece module announce subscribe plugin</name>
 
@@ -52,12 +52,12 @@
     <properties>
         <componentName>module-announce-subscribe</componentName>
         <jiraProjectName>MODULEANNOUNCESUBSCRIBE</jiraProjectName>
-        <jiraComponentId></jiraComponentId>
+        <jiraComponentId />
     </properties>
     <scm>
         <connection>scm:git:https://github.com/lutece-platform/lutece-collab-module-announce-subscribe.git</connection>
         <developerConnection>scm:git:https://github.com/lutece-platform/lutece-collab-module-announce-subscribe.git</developerConnection>
         <url>https://github.com/lutece-platform/lutece-collab-module-announce-subscribe.git²</url>
-        <tag>HEAD</tag>
+        <tag>module-announce-subscribe-1.0.0</tag>
     </scm>
 </project>
